@@ -8,8 +8,8 @@ In the project directory, you can run:
 
 ### `npm start`
 
-calculator\src\assets
-![Description of Image](calculator\src\assets\frontend.png)
+
+![Description of Image](src\assets\frontend.png)
 
 
 
