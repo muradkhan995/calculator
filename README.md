@@ -9,7 +9,7 @@ In the project directory, you can run:
 ### `npm start`
 
 
-![Description of Image](src\assets\frontend.png)
+![Description of Image](src/assets/frontend.png)
 
 
 
